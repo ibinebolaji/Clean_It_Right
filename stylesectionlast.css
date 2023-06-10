@@ -1,0 +1,35 @@
+.sectionlast {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sectionlast button {
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: #6b8377;
+    color: #fff;
+    font-family: Roboto, Arial, sans-serif;
+    border-radius: 4px;
+    text-align: center;
+    border: #fff;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    font-size: 12px;
+  }
+  footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 12px;
+    font-family: Roboto, Arial, sans-serif;
+    color: #999999;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  footer p {
+    padding-top: 20px;
+  }
